@@ -3,7 +3,7 @@
 **Cycle Ingénieur Procédés et Ingénierie Chimique (PIC), FST Settat, Université Hassan 1er**
 **Module :** Thermodynamique 1
 **Enseignant :** Pr. BAKHER Zine Elabidine
-**Étudiant(e) :** *Ghizlane derouich*
+**Étudiante :** *Ghizlane derouich*
 
 ## Objectif
 
